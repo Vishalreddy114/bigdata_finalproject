@@ -89,6 +89,9 @@ https://www.gutenberg.org/files/2852/2852-0.txt
         plt.figure(figsize=(20,4))
         sns.barplot(xlabel, ylabel, data=df, palette="cubehelix").set_title(title)
          
-         
+  # Result:
+        
+   ![result](https://github.com/Vishalreddy114/bigdata_finalproject/blob/main/chartingbigdata.PNG)
+        
     
      
