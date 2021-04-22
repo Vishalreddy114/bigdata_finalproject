@@ -93,5 +93,11 @@ https://www.gutenberg.org/files/2852/2852-0.txt
         
    ![result](https://github.com/Vishalreddy114/bigdata_finalproject/blob/main/chartingbigdata.PNG)
         
-    
+  # References: 
+  
+   https://github.com/sudheera96/pyspark-textprocessing
+   
+   https://sparkbyexamples.com/
+   
+   https://github.com/Rajeshwari-Rudra/bigData-finalProject
      
